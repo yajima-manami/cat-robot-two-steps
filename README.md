@@ -39,6 +39,8 @@ ROS 2側の実行には、対応するロボットモデルと`/cmd_vel`の受�
 
 ROS 2コードは差動二輪ロボット向けの前後移動指令の例であり、四足ロボットの関節歩行を直接制御するものではありません。
 ## YouTube用動画（macOS/Ubuntu共通）
+https://youtu.be/G7cwaA_8Kes?si=AdlZ-IYocM_-Z5fa
+
 `cat_robot_two_steps.mp4` は1080pではなく960×540、24fps、8秒、音声なしのデモ動画です。猫の足の動きはPython/Pillowで描いたアニメーションです。Gazeboの録画ではありません。
 
 再生成：
